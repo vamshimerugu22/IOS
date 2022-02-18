@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9A4B605427B9A55F006C4879 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4B605327B9A55F006C4879 /* AppDelegate.swift */; };
-		9A4B605627B9A55F006C4879 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4B605527B9A55F006C4879 /* SceneDelegate.swift */; };
-		9A4B605827B9A55F006C4879 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4B605727B9A55F006C4879 /* ViewController.swift */; };
-		9A4B605B27B9A55F006C4879 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A4B605927B9A55F006C4879 /* Main.storyboard */; };
-		9A4B605D27B9A560006C4879 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A4B605C27B9A560006C4879 /* Assets.xcassets */; };
-		9A4B606027B9A560006C4879 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A4B605E27B9A560006C4879 /* LaunchScreen.storyboard */; };
+		9AAEF30A27BF2D220096B7C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AAEF30927BF2D220096B7C8 /* AppDelegate.swift */; };
+		9AAEF30C27BF2D220096B7C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AAEF30B27BF2D220096B7C8 /* SceneDelegate.swift */; };
+		9AAEF30E27BF2D220096B7C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AAEF30D27BF2D220096B7C8 /* ViewController.swift */; };
+		9AAEF31127BF2D220096B7C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AAEF30F27BF2D220096B7C8 /* Main.storyboard */; };
+		9AAEF31327BF2D230096B7C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AAEF31227BF2D230096B7C8 /* Assets.xcassets */; };
+		9AAEF31627BF2D230096B7C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AAEF31427BF2D230096B7C8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9A4B605027B9A55F006C4879 /* Merugu_Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Merugu_Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9A4B605327B9A55F006C4879 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9A4B605527B9A55F006C4879 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9A4B605727B9A55F006C4879 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9A4B605A27B9A55F006C4879 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9A4B605C27B9A560006C4879 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9A4B605F27B9A560006C4879 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9A4B606127B9A560006C4879 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AAEF30627BF2D220096B7C8 /* Merugu_Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Merugu_Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AAEF30927BF2D220096B7C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9AAEF30B27BF2D220096B7C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		9AAEF30D27BF2D220096B7C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9AAEF31027BF2D220096B7C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9AAEF31227BF2D230096B7C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9AAEF31527BF2D230096B7C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9AAEF31727BF2D230096B7C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9A4B604D27B9A55F006C4879 /* Frameworks */ = {
+		9AAEF30327BF2D220096B7C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +37,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9A4B604727B9A55F006C4879 = {
+		9AAEF2FD27BF2D220096B7C8 = {
 			isa = PBXGroup;
 			children = (
-				9A4B605227B9A55F006C4879 /* Merugu_Calculator */,
-				9A4B605127B9A55F006C4879 /* Products */,
+				9AAEF30827BF2D220096B7C8 /* Merugu_Calculator */,
+				9AAEF30727BF2D220096B7C8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		9A4B605127B9A55F006C4879 /* Products */ = {
+		9AAEF30727BF2D220096B7C8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9A4B605027B9A55F006C4879 /* Merugu_Calculator.app */,
+				9AAEF30627BF2D220096B7C8 /* Merugu_Calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9A4B605227B9A55F006C4879 /* Merugu_Calculator */ = {
+		9AAEF30827BF2D220096B7C8 /* Merugu_Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				9A4B605327B9A55F006C4879 /* AppDelegate.swift */,
-				9A4B605527B9A55F006C4879 /* SceneDelegate.swift */,
-				9A4B605727B9A55F006C4879 /* ViewController.swift */,
-				9A4B605927B9A55F006C4879 /* Main.storyboard */,
-				9A4B605C27B9A560006C4879 /* Assets.xcassets */,
-				9A4B605E27B9A560006C4879 /* LaunchScreen.storyboard */,
-				9A4B606127B9A560006C4879 /* Info.plist */,
+				9AAEF30927BF2D220096B7C8 /* AppDelegate.swift */,
+				9AAEF30B27BF2D220096B7C8 /* SceneDelegate.swift */,
+				9AAEF30D27BF2D220096B7C8 /* ViewController.swift */,
+				9AAEF30F27BF2D220096B7C8 /* Main.storyboard */,
+				9AAEF31227BF2D230096B7C8 /* Assets.xcassets */,
+				9AAEF31427BF2D230096B7C8 /* LaunchScreen.storyboard */,
+				9AAEF31727BF2D230096B7C8 /* Info.plist */,
 			);
 			path = Merugu_Calculator;
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9A4B604F27B9A55F006C4879 /* Merugu_Calculator */ = {
+		9AAEF30527BF2D220096B7C8 /* Merugu_Calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9A4B606427B9A560006C4879 /* Build configuration list for PBXNativeTarget "Merugu_Calculator" */;
+			buildConfigurationList = 9AAEF31A27BF2D230096B7C8 /* Build configuration list for PBXNativeTarget "Merugu_Calculator" */;
 			buildPhases = (
-				9A4B604C27B9A55F006C4879 /* Sources */,
-				9A4B604D27B9A55F006C4879 /* Frameworks */,
-				9A4B604E27B9A55F006C4879 /* Resources */,
+				9AAEF30227BF2D220096B7C8 /* Sources */,
+				9AAEF30327BF2D220096B7C8 /* Frameworks */,
+				9AAEF30427BF2D220096B7C8 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +84,25 @@
 			);
 			name = Merugu_Calculator;
 			productName = Merugu_Calculator;
-			productReference = 9A4B605027B9A55F006C4879 /* Merugu_Calculator.app */;
+			productReference = 9AAEF30627BF2D220096B7C8 /* Merugu_Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		9A4B604827B9A55F006C4879 /* Project object */ = {
+		9AAEF2FE27BF2D220096B7C8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					9A4B604F27B9A55F006C4879 = {
+					9AAEF30527BF2D220096B7C8 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = 9A4B604B27B9A55F006C4879 /* Build configuration list for PBXProject "Merugu_Calculator" */;
+			buildConfigurationList = 9AAEF30127BF2D220096B7C8 /* Build configuration list for PBXProject "Merugu_Calculator" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 9A4B604727B9A55F006C4879;
-			productRefGroup = 9A4B605127B9A55F006C4879 /* Products */;
+			mainGroup = 9AAEF2FD27BF2D220096B7C8;
+			productRefGroup = 9AAEF30727BF2D220096B7C8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9A4B604F27B9A55F006C4879 /* Merugu_Calculator */,
+				9AAEF30527BF2D220096B7C8 /* Merugu_Calculator */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9A4B604E27B9A55F006C4879 /* Resources */ = {
+		9AAEF30427BF2D220096B7C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A4B606027B9A560006C4879 /* LaunchScreen.storyboard in Resources */,
-				9A4B605D27B9A560006C4879 /* Assets.xcassets in Resources */,
-				9A4B605B27B9A55F006C4879 /* Main.storyboard in Resources */,
+				9AAEF31627BF2D230096B7C8 /* LaunchScreen.storyboard in Resources */,
+				9AAEF31327BF2D230096B7C8 /* Assets.xcassets in Resources */,
+				9AAEF31127BF2D220096B7C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9A4B604C27B9A55F006C4879 /* Sources */ = {
+		9AAEF30227BF2D220096B7C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A4B605827B9A55F006C4879 /* ViewController.swift in Sources */,
-				9A4B605427B9A55F006C4879 /* AppDelegate.swift in Sources */,
-				9A4B605627B9A55F006C4879 /* SceneDelegate.swift in Sources */,
+				9AAEF30E27BF2D220096B7C8 /* ViewController.swift in Sources */,
+				9AAEF30A27BF2D220096B7C8 /* AppDelegate.swift in Sources */,
+				9AAEF30C27BF2D220096B7C8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		9A4B605927B9A55F006C4879 /* Main.storyboard */ = {
+		9AAEF30F27BF2D220096B7C8 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9A4B605A27B9A55F006C4879 /* Base */,
+				9AAEF31027BF2D220096B7C8 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9A4B605E27B9A560006C4879 /* LaunchScreen.storyboard */ = {
+		9AAEF31427BF2D230096B7C8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9A4B605F27B9A560006C4879 /* Base */,
+				9AAEF31527BF2D230096B7C8 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		9A4B606227B9A560006C4879 /* Debug */ = {
+		9AAEF31827BF2D230096B7C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		9A4B606327B9A560006C4879 /* Release */ = {
+		9AAEF31927BF2D230096B7C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,7 +282,7 @@
 			};
 			name = Release;
 		};
-		9A4B606527B9A560006C4879 /* Debug */ = {
+		9AAEF31B27BF2D230096B7C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -310,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		9A4B606627B9A560006C4879 /* Release */ = {
+		9AAEF31C27BF2D230096B7C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -341,25 +341,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9A4B604B27B9A55F006C4879 /* Build configuration list for PBXProject "Merugu_Calculator" */ = {
+		9AAEF30127BF2D220096B7C8 /* Build configuration list for PBXProject "Merugu_Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9A4B606227B9A560006C4879 /* Debug */,
-				9A4B606327B9A560006C4879 /* Release */,
+				9AAEF31827BF2D230096B7C8 /* Debug */,
+				9AAEF31927BF2D230096B7C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9A4B606427B9A560006C4879 /* Build configuration list for PBXNativeTarget "Merugu_Calculator" */ = {
+		9AAEF31A27BF2D230096B7C8 /* Build configuration list for PBXNativeTarget "Merugu_Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9A4B606527B9A560006C4879 /* Debug */,
-				9A4B606627B9A560006C4879 /* Release */,
+				9AAEF31B27BF2D230096B7C8 /* Debug */,
+				9AAEF31C27BF2D230096B7C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 9A4B604827B9A55F006C4879 /* Project object */;
+	rootObject = 9AAEF2FE27BF2D220096B7C8 /* Project object */;
 }
